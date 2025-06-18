@@ -23,3 +23,4 @@ def plot_feature_importance(model, feature_names):
     plt.title('Feature Importance for Classification')
     plt.tight_layout()
     plt.show()
+    
